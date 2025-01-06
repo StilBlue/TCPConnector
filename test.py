@@ -1,0 +1,1 @@
+print("{:<2}" .format(str(0).zfill(2)))
